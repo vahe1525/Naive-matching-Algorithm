@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36414.22 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Naive matching", "Naive matching\Naive matching.pyproj", "{23FCD32D-FA6B-4384-8E93-EDFBCF5E16FF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{23FCD32D-FA6B-4384-8E93-EDFBCF5E16FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{23FCD32D-FA6B-4384-8E93-EDFBCF5E16FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {36A367DA-5CF0-4984-9FAD-C1069C8B9706}
+	EndGlobalSection
+EndGlobal
